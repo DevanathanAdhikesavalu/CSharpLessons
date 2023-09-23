@@ -1,0 +1,11 @@
+﻿@model NWindMVC.Models.Order
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>GetOrderDetails</h1>
+
+<div id="orderDetails">
+    @Html.Partial("_OrderDetails", Model)
+</div>

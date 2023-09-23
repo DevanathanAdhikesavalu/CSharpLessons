@@ -1,0 +1,11 @@
+D:\ClassLibraryTraining\CreatingClassLibrary\CreatingClassLibrary\bin\Debug\net6.0\CreatingClassLibrary.deps.json
+D:\ClassLibraryTraining\CreatingClassLibrary\CreatingClassLibrary\bin\Debug\net6.0\CreatingClassLibrary.dll
+D:\ClassLibraryTraining\CreatingClassLibrary\CreatingClassLibrary\bin\Debug\net6.0\CreatingClassLibrary.pdb
+D:\ClassLibraryTraining\CreatingClassLibrary\CreatingClassLibrary\obj\Debug\net6.0\CreatingClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClassLibraryTraining\CreatingClassLibrary\CreatingClassLibrary\obj\Debug\net6.0\CreatingClassLibrary.AssemblyInfoInputs.cache
+D:\ClassLibraryTraining\CreatingClassLibrary\CreatingClassLibrary\obj\Debug\net6.0\CreatingClassLibrary.AssemblyInfo.cs
+D:\ClassLibraryTraining\CreatingClassLibrary\CreatingClassLibrary\obj\Debug\net6.0\CreatingClassLibrary.csproj.CoreCompileInputs.cache
+D:\ClassLibraryTraining\CreatingClassLibrary\CreatingClassLibrary\obj\Debug\net6.0\CreatingClassLibrary.dll
+D:\ClassLibraryTraining\CreatingClassLibrary\CreatingClassLibrary\obj\Debug\net6.0\refint\CreatingClassLibrary.dll
+D:\ClassLibraryTraining\CreatingClassLibrary\CreatingClassLibrary\obj\Debug\net6.0\CreatingClassLibrary.pdb
+D:\ClassLibraryTraining\CreatingClassLibrary\CreatingClassLibrary\obj\Debug\net6.0\ref\CreatingClassLibrary.dll

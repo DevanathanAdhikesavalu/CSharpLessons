@@ -1,0 +1,64 @@
+﻿@model IEnumerable<FirstMVCApp.Models.Author>
+
+@{
+    ViewData["Title"] = "ListAllAuthors";
+}
+<form action="FindAuthor"> 
+    <div>
+        <div>
+            <label for="txtUser">Author ID </label>
+            <input type="text" name="txtUser" required placeholder="Enter AuthorID" />
+        </div>
+        <div>
+            <input type="submit" value="Find" />
+        </div>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AuthorID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AuthorName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AuthorDOB)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NoOfBooksPublished)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RoyaltyCompany)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AuthorID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AuthorName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AuthorDOB)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NoOfBooksPublished)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RoyaltyCompany)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "EditAuthor", new { id=item.AuthorID}) |
+                @Html.ActionLink("Details", "Details", new { id=item.AuthorID }) |
+                @Html.ActionLink("Delete", "DeleteAuthor", new { id=item.AuthorID })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

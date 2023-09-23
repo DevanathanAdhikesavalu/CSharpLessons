@@ -1,0 +1,149 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FirstMVCApp
+build_property.RootNamespace = FirstMVCApp
+build_property.ProjectDir = D:\ClassLibraryTraining\FirstMVCApp\FirstMVCApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ClassLibraryTraining\FirstMVCApp\FirstMVCApp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/AuthorController1/AuthorList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yQ29udHJvbGxlcjFcQXV0aG9yTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/AuthorController1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yQ29udHJvbGxlcjFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/AuthorController1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yQ29udHJvbGxlcjFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/AuthorController1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yQ29udHJvbGxlcjFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/AuthorController1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yQ29udHJvbGxlcjFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Emp/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Emp/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Emp/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Emp/EmployeeDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXEVtcGxveWVlRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Emp/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Home/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Home/AddNewBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGROZXdCb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Home/DeleteAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGVBdXRob3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Home/DoLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEb0xvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Home/EditAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0QXV0aG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Home/FindAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGaW5kQXV0aG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Home/ListAllAuthors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0QWxsQXV0aG9ycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Home/ListAllBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0QWxsQm9vay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Home/RegisterNewAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlck5ld0F1dGhvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Home/SaveNewAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYXZlTmV3QXV0aG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Home/SaveNewBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYXZlTmV3Qm9vay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Movie/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Movie/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Movie/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Movie/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Movie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ClassLibraryTraining/FirstMVCApp/FirstMVCApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-drzfyyyim3

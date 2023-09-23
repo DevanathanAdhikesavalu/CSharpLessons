@@ -1,0 +1,14 @@
+C:\Users\devanathan.adhi\source\repos\LessonA\LessonA\bin\Debug\net6.0\ProjectAConsoleApp.exe
+C:\Users\devanathan.adhi\source\repos\LessonA\LessonA\bin\Debug\net6.0\ProjectAConsoleApp.deps.json
+C:\Users\devanathan.adhi\source\repos\LessonA\LessonA\bin\Debug\net6.0\ProjectAConsoleApp.runtimeconfig.json
+C:\Users\devanathan.adhi\source\repos\LessonA\LessonA\bin\Debug\net6.0\ProjectAConsoleApp.dll
+C:\Users\devanathan.adhi\source\repos\LessonA\LessonA\bin\Debug\net6.0\ProjectAConsoleApp.pdb
+C:\Users\devanathan.adhi\source\repos\LessonA\LessonA\obj\Debug\net6.0\ProjectAConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devanathan.adhi\source\repos\LessonA\LessonA\obj\Debug\net6.0\ProjectAConsoleApp.AssemblyInfoInputs.cache
+C:\Users\devanathan.adhi\source\repos\LessonA\LessonA\obj\Debug\net6.0\ProjectAConsoleApp.AssemblyInfo.cs
+C:\Users\devanathan.adhi\source\repos\LessonA\LessonA\obj\Debug\net6.0\ProjectAConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\devanathan.adhi\source\repos\LessonA\LessonA\obj\Debug\net6.0\ProjectAConsoleApp.dll
+C:\Users\devanathan.adhi\source\repos\LessonA\LessonA\obj\Debug\net6.0\refint\ProjectAConsoleApp.dll
+C:\Users\devanathan.adhi\source\repos\LessonA\LessonA\obj\Debug\net6.0\ProjectAConsoleApp.pdb
+C:\Users\devanathan.adhi\source\repos\LessonA\LessonA\obj\Debug\net6.0\ProjectAConsoleApp.genruntimeconfig.cache
+C:\Users\devanathan.adhi\source\repos\LessonA\LessonA\obj\Debug\net6.0\ref\ProjectAConsoleApp.dll

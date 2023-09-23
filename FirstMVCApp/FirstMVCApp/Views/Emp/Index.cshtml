@@ -1,0 +1,53 @@
+﻿@model IEnumerable<FirstMVCApp.Models.Employee>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpSalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmpCity)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmpID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmpName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmpSalary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmpCity)
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "Edit", new { id=item.EmpID}) |
+                @Html.ActionLink("Details", "Details", new { id=item.EmpID}) |
+                    @Html.ActionLink("Delete", "Delete", new { id=item.EmpID })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

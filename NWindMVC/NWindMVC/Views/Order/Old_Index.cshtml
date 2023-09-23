@@ -1,0 +1,35 @@
+﻿@model List<int>
+
+@{
+    ViewBag.Title = "Index";
+}
+@using (Html.BeginForm("Details", "Order", FormMethod.Get))
+{
+    <div>
+        <label for="orderid">Order ID</label>
+        <select id="orderid" name="id" size="1">
+            @foreach (var oid in Model)
+            {
+                <option value="@oid">@oid</option>
+            }
+        </select>
+        <button type="submit">Submit</button>
+    </div>
+}
+
+@* <form action="@Url.Action("Details", "Order")" method="get">
+    <select name="ID">
+        @foreach (SelectListItem item in ViewBag.OrderIds)
+        {
+            <option value="@item.Value">@item.Text</option>
+        }
+    </select>
+
+    <button type="submit">Show Details</button>
+</form>
+
+<div id="orderDetails">
+    <!-- Details will be displayed here -->
+</div> *@
+
+
